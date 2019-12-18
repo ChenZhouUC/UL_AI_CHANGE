@@ -19,4 +19,5 @@
 
 + We have won the **championship** in 2019 Unilever Hackthon. Please contact WHALE for more information. 
 + Our Website: http://weiwo.io/home
++ To acquire our detailed proposals, please email: chenzhou@whale.im
 
