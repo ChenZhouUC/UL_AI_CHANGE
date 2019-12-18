@@ -1,4 +1,5 @@
-# UL_AI_CHANGE
+# Unilever Hackthon AI CHANGE U
+
 ![logo](https://github.com/ChenZhouUC/UL_AI_CHANGE/blob/master/Asset/ULAI.png)
 
 ### About Data
